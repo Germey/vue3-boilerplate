@@ -102,9 +102,4 @@ export default class Button extends Vue {
 }
 </script>
 
-<style scoped lang="scss">
-.x-button {
-  display: inline-flex;
-  align-items: center;
-}
-</style>
+
