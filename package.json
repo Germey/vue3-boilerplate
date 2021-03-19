@@ -56,6 +56,7 @@
   "dependencies": {
     "aos": "^3.0.0-beta.6",
     "core-js": "^3.9.1",
+    "element-plus": "^1.0.2-beta.35",
     "flex.box": "^3.4.4",
     "logvis": "^1.0.6",
     "register-service-worker": "^1.7.2",
